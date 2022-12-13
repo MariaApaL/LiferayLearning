@@ -1,4 +1,0 @@
-Bundle-Name: course-portlet
-Bundle-SymbolicName: com.primerportlet.virtualclassroom
-Bundle-Version: 1.0.0
-Export-Package: com.primerportlet.virtualclassroom.constants

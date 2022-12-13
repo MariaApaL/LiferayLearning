@@ -1,4 +1,0 @@
-Bundle-Name: guestbook-web
-Bundle-SymbolicName: com.accenture.apa.web
-Bundle-Version: 1.0.0
-Export-Package: com.accenture.apa.web.constants
