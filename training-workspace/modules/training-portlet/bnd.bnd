@@ -1,0 +1,4 @@
+Bundle-Name: training-portlet
+Bundle-SymbolicName: com.apa.liferay.training.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.apa.liferay.training.portlet.constants

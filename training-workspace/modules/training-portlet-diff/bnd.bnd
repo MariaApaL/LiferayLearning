@@ -1,0 +1,4 @@
+Bundle-Name: training-portlet-diff
+Bundle-SymbolicName: com.apa.liferay.training.portlet.diff
+Bundle-Version: 1.0.0
+Export-Package: com.apa.liferay.training.portlet.diff.constants
